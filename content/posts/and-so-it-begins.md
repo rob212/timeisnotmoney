@@ -5,8 +5,6 @@ featured_image: "/images/begins.png"
 draft: false
 ---
 
-## And so it begins...
-
 In his book _Advice to a Young Tradesman_, Benjamin Franklin suggested that 'Time is Money'. Although this principle plays out well in the labour market, a typical employement contract details exactly how many hours you are expected to work per week for X amount of money.
 
 But to say time _is_ money implies that our time has a price. Understanding that money and time are different things is one of the most significant shifts you can make in your financial and working life. If we choose to see time as infinitely valuable and irreplaceable, we can make better decisions about how we use it, and better decisions about our money and how we earn it.
