@@ -1,6 +1,7 @@
 ---
 title: "And So It Begins"
 date: 2023-06-29T16:10:15+01:00
+featured_image: "/images/begins.png"
 draft: false
 ---
 

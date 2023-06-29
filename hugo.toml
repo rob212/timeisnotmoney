@@ -2,3 +2,8 @@ baseURL = 'https://www.timeisnotmoney.uk/'
 languageCode = 'en-gb'
 title = 'Time is not money'
 theme = 'ananke'
+
+[params]
+  favicon = ""
+  site_logo = "images/tim_logo_25px.svg"
+   background_color_class = "bg-black"
